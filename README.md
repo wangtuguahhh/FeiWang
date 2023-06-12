@@ -12,7 +12,7 @@ After achieving the IBM Data Science Professional Certificate, I'd like to get m
 * [Who survived the Titanic tragedy?](https://github.com/wangtuguahhh/Who-survived-the-Titanic-tragedy#readme) 
   - Feature Engineering to achieve more accurate predictions
   - Advanced Random Forest Model from TensorFlow with automated hyper parameter tuning
-* How much we will sell next month?
+* [How much we will sell next month?](https://github.com/wangtuguahhh/How-much-we-will-sell-next-month#readme)
   - Extensive EDA for time-series data
   - Hybrid model including a simple linear regression and a XGB model for residuals
   
