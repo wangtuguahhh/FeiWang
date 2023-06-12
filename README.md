@@ -9,7 +9,7 @@ After achieving the IBM Data Science Professional Certificate, I'd like to get m
   - Using SpaceX API and web-scraping techniques to collect landing outcomes of previous launches
   - Extensive EDA including interactive maps and dashboards
   - Different machine learning techniques implemented and compared
-* Who survived Titanic tragedy?  
+* Who survived the Titanic tragedy?  
   - Feature Engineering to achieve more accurate predictions
   - Advanced Random Forest Model from TensorFlow with automated hyper parameter tuning
 * How much we will sell next month?
