@@ -1,4 +1,4 @@
-# FeiWang
+# Fei Wang
 # 👋 Hello world! 👋
 I am Fei Wang, an active data scientist job seeker with an engineering PhD backgroud and 5 years working experience as a seismic data processer and imager. As a senior seismic imager, I've developed my skills in working with large amount of data using Python, internal and external presentations and client consultation. More importantly, I discovered how data can help solve business problems for oil explorations and well developments. I'm facinated by how much impact data has not only on business but also on our daily life, which leads to my decision to switch gears and to become a data scientitst.
 
