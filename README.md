@@ -1,6 +1,6 @@
 # Fei Wang
 # 👋 Hello world! 👋
-I am Fei Wang, an active pursuit of a challenging role in data science, a dynamic and adaptable PhD in engineering, and a former senior seismic imager. Over a rich five-year career span as a seismic imager, I've grown proficient in working with large amount of data using Python and translating complex findings into comprehensive presentations. I've seen how data can help solve business problems for oil exploration and well development. I'm facinated by the incredibel potential of data to steer business decisions, which drives my decision to transition into a data scientist role.
+I am Fei Wang, an active pursuit of a challenging role in data science, a dynamic and adaptable PhD in engineering, and a former senior seismic imager. Over a rich five-year career span as a seismic imager, I've grown proficient in working with large amount of data using Python and translating complex findings into comprehensive presentations. I've seen how data can help solve business problems for oil exploration and well development. I'm fascinated by the incredible potential of data to steer business decisions, which drives my decision to transition into a data scientist role.
 
 After achieving the IBM Data Science Professional Certificate, I decided to get my hands dirty to work on different types of data to gather more experience and skills. When working on a data science project, I'd like to start with a question. This practice keeps me grounded on the problem and allows me to continually perceive the significance of the task.
 
