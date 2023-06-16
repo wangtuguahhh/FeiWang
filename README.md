@@ -22,7 +22,7 @@ After achieving the IBM Data Science Professional Certificate, I decided to get 
   - Hybrid model including a simple linear regression and a XGB model for residuals
   
 ## 🌻 Skills
-* Python: Pandas, Numpy, Scikit-learn, TensorFlow, Kears 
-* Database: SQL, MySQL
-* Data Visualization: Matplotlib, Seaborn, Folium, Plotly Dash, [Tableau](https://public.tableau.com/app/profile/fei.wang7062/viz/0605_Airbnb_Seattle_2016/Dashboard2), Power BI
-* Machine Learning: Linear Regression, Logistic Regression, Decision Trees, XGB, Random Forest, SVM, KNN, K-mean Clustering
+* Python: Pandas, Numpy, [Scikit-learn](step-4-ml-model-fitting-and-evaluation.ipynb), [TensorFlow](beginner-titanic-challenge.ipynb) 
+* Database: [SQL](appendix-1-sql-queries.ipynb), MySQL
+* Data Visualization: [Matplotlib, Seaborn, Folium](step-3-data-wrangling-and-eda.ipynb), [Plotly Dash](https://github.com/wangtuguahhh/my_spacex_project_dash#readme), [Tableau](https://public.tableau.com/app/profile/fei.wang7062/viz/0605_Airbnb_Seattle_2016/Dashboard2), Power BI
+* Machine Learning: [Linear Regression](store-sales-time-series-forecasting-hybrid-model.ipynb), [Logistic Regression](step-4-ml-model-fitting-and-evaluation.ipynb), [Decision Trees](step-4-ml-model-fitting-and-evaluation.ipynb), [XGB](store-sales-time-series-forecasting-hybrid-model.ipynb), [Random Forest](beginner-titanic-challenge.ipynb), [SVM](step-4-ml-model-fitting-and-evaluation.ipynb), [KNN](step-4-ml-model-fitting-and-evaluation.ipynb), K-mean Clustering
