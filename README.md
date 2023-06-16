@@ -20,4 +20,4 @@ After achieving the IBM Data Science Professional Certificate, I decided to get 
 * Python: Pandas, Numpy, Scikit-learn, TensorFlow, Kears 
 * Database: SQL, MySQL
 * Data Visualization: Matplotlib, Seaborn, Folium, Plotly, Tableau, Power BI
-* Machine Learning: Linear regression, Logistic regression, Decision trees, SVM, KNN, multi-class classification, clustering
+* Machine Learning: Linear regression, Logistic regression, Decision trees, XGB, SVM, KNN, clustering
