@@ -6,14 +6,19 @@ After achieving the IBM Data Science Professional Certificate, I decided to get 
 
 ## 🌱 Projects
 * [How to outbid next SpaceX Falcon 9 launch?](https://github.com/wangtuguahhh/How-to-outbid-next-SpaceX-Falcon-9-launch#readme) 
-  - Using SpaceX API and web-scraping techniques to collect landing outcomes of previous launches
-  - Extensive EDA including interactive maps and dashboards
-  - Different machine learning classification models implemented and compared
+  - Using SpaceX API and web-scraping techniques to collect data
+  - Extensive EDA including geographic maps and dashboards
+  - Data wrangling for missing values and categorical variables
+  - Four machine learning classification models with hyper parameter tuning
 * [Who survived the Titanic tragedy?](https://github.com/wangtuguahhh/Who-survived-the-Titanic-tragedy#readme) 
-  - Feature Engineering to achieve more accurate predictions
+  - Feature engineering to achieve more accurate predictions
+    - Mutual Information Analysis
+    - Principal Component Analysis
   - Advanced Random Forest Model from TensorFlow with automated hyper parameter tuning
 * [How much we will sell next month?](https://github.com/wangtuguahhh/How-much-we-will-sell-next-month#readme)
   - Extensive EDA for time-series data
+    - To discover time-related patterns
+    - To find cycles
   - Hybrid model including a simple linear regression and a XGB model for residuals
   
 ## 🌻 Skills
