@@ -24,5 +24,5 @@ After achieving the IBM Data Science Professional Certificate, I decided to get 
 ## 🌻 Skills
 * Python: Pandas, Numpy, Scikit-learn, TensorFlow, Kears 
 * Database: SQL, MySQL
-* Data Visualization: Matplotlib, Seaborn, Folium, Plotly, Tableau, Power BI
+* Data Visualization: Matplotlib, Seaborn, Folium, Plotly Dash, [Tableau](https://public.tableau.com/app/profile/fei.wang7062/viz/0605_Airbnb_Seattle_2016/Dashboard2), Power BI
 * Machine Learning: Linear Regression, Logistic Regression, Decision Trees, XGB, Random Forest, SVM, KNN, K-mean Clustering
