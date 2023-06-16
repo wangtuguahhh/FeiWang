@@ -8,7 +8,7 @@ After achieving the IBM Data Science Professional Certificate, I decided to get 
 * [How to outbid next SpaceX Falcon 9 launch?](https://github.com/wangtuguahhh/How-to-outbid-next-SpaceX-Falcon-9-launch#readme) 
   - Using SpaceX API and web-scraping techniques to collect landing outcomes of previous launches
   - Extensive EDA including interactive maps and dashboards
-  - Different machine learning techniques implemented and compared
+  - Different machine learning classification models implemented and compared
 * [Who survived the Titanic tragedy?](https://github.com/wangtuguahhh/Who-survived-the-Titanic-tragedy#readme) 
   - Feature Engineering to achieve more accurate predictions
   - Advanced Random Forest Model from TensorFlow with automated hyper parameter tuning
@@ -20,4 +20,4 @@ After achieving the IBM Data Science Professional Certificate, I decided to get 
 * Python: Pandas, Numpy, Scikit-learn, TensorFlow, Kears 
 * Database: SQL, MySQL
 * Data Visualization: Matplotlib, Seaborn, Folium, Plotly, Tableau, Power BI
-* Machine Learning: Linear regression, Logistic regression, Decision trees, XGB, SVM, KNN, clustering
+* Machine Learning: Linear Regression, Logistic Regression, Decision Trees, XGB, Random Forest, SVM, KNN, K-mean Clustering
