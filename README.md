@@ -15,16 +15,16 @@ accuracy of 0.9 on unseen data
   - Extensive EDA including geographic maps and dashboards
   - **Data wrangling** for missing values and categorical variables
   - Four machine learning classification models using **Scikit-Learn** with **hyper-parameter tuning**
-* [Who survived the Titanic tragedy?](https://github.com/wangtuguahhh/Who-survived-the-Titanic-tragedy#readme) 
-  - Feature engineering to achieve more accurate predictions
-    - Mutual Information Analysis
-    - **Principal Component Analysis**
-  - Advanced **Random Forest** Model from TensorFlow with automated **hyper-parameter tuning**
 * [How much we will sell next month?](https://github.com/wangtuguahhh/How-much-we-will-sell-next-month#readme)
   - Extensive EDA for **time-series** data
     - To discover time-related patterns
     - To find cycles
   - Hybrid model including a simple linear regression and a **XGB** model for residuals
+* [Who survived the Titanic tragedy?](https://github.com/wangtuguahhh/Who-survived-the-Titanic-tragedy#readme) 
+  - Feature engineering to achieve more accurate predictions
+    - Mutual Information Analysis
+    - Principal Component Analysis **(PCA)**
+  - Advanced **Random Forest** Model from TensorFlow with automated **hyper-parameter tuning**
   
 ## 🌻 Skills
 * Python: Pandas, Numpy, Pandas, [Scikit-learn](step-4-ml-model-fitting-and-evaluation.ipynb), [TensorFlow](beginner-titanic-challenge.ipynb), Transformers
