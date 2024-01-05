@@ -5,6 +5,10 @@ Hello! I’m Fei Wang, a Ph.D. in Chemical Engineering from Rice University, now
 My transition to Data Science has been a deliberate and well-structured journey. I've immersed myself in a rigorous 500+ hour Data Science training program through Springboard, developing core competencies in Statistics, Machine Learning, Python, and SQL. My capstone project, focusing on image classification for diagnosing plant leaf diseases using deep Convolutional Neural Networks (CNNs), is a testament to my dedication and capability to apply data science techniques to real-world challenges.
 
 ## 🌱 Projects
+* [News Analysis for Potential Investment Strategies on Tesla Stock](https://github.com/wangtuguahhh/Sentiment-Analysis-for-Investment-Strategies-on-Tesla-Stock)
+  - Utilized **Large Language Models** (LLMs) for news classification and sentiment extraction
+  - Enhanced LLM performance for task-specific accuracy using **prompt-engineering** and **Parameter-Efficient Fine-Tuning** (PEFT) with **LoRA** technique
+  - **Deployed** [dashboards](https://streamitteslaproject-cv6tnge82hewwmf6cttecw.streamlit.app/) for dynamic visualization and analysis of data insights, facilitating potential investment strategies
 * [Plant Leaf Diseases Diagnosis with Deep Learning](https://github.com/wangtuguahhh/Capstone_2)
   - Built and optimized a deep CNN model for **image classification** using **TensorFlow** with a high
 accuracy of 0.9 on unseen data
@@ -27,7 +31,15 @@ accuracy of 0.9 on unseen data
   - Advanced **Random Forest** Model from TensorFlow with automated **hyper-parameter tuning**
   
 ## 🌻 Skills
-* Python: Pandas, Numpy, Pandas, [Scikit-learn](step-4-ml-model-fitting-and-evaluation.ipynb), [TensorFlow](beginner-titanic-challenge.ipynb), Transformers
-* Database: [SQL](appendix-1-sql-queries.ipynb), MySQL
-* Data Visualization: [Matplotlib, Seaborn, Folium](step-3-data-wrangling-and-eda.ipynb), [Plotly Dash](https://github.com/wangtuguahhh/my_spacex_project_dash#readme), [Tableau](https://public.tableau.com/app/profile/fei.wang7062/viz/0605_Airbnb_Seattle_2016/Dashboard2), [Power BI](https://github.com/wangtuguahhh/my_power_bi_practice/blob/main/Power_BI_practice.pdf)
-* Machine Learning: [Linear Regression](store-sales-time-series-forecasting-hybrid-model.ipynb), [Logistic Regression](step-4-ml-model-fitting-and-evaluation.ipynb), [Decision Trees](step-4-ml-model-fitting-and-evaluation.ipynb), [XGB](store-sales-time-series-forecasting-hybrid-model.ipynb), [Random Forest](beginner-titanic-challenge.ipynb), [SVM](step-4-ml-model-fitting-and-evaluation.ipynb), [KNN](step-4-ml-model-fitting-and-evaluation.ipynb), K-mean Clustering, [Convolutional Neural Netwokrs (CNNs)](https://github.com/wangtuguahhh/Capstone_2) 
+* **Python**
+
+    Pandas, Numpy, Pandas, [Scikit-learn](step-4-ml-model-fitting-and-evaluation.ipynb), [TensorFlow](beginner-titanic-challenge.ipynb), [Transformers](https://github.com/wangtuguahhh/Sentiment-Analysis-for-Investment-Strategies-on-Tesla-Stock/blob/main/notebook/02_News_Classification_with_Prompt_Engineering_Flan_T5.ipynb)
+* **Database**
+
+    [SQL](appendix-1-sql-queries.ipynb), MySQL
+* **Data Visualization**
+
+    [Matplotlib, Seaborn, Folium](step-3-data-wrangling-and-eda.ipynb), [Plotly Dash](https://github.com/wangtuguahhh/my_spacex_project_dash#readme), [Tableau](https://public.tableau.com/app/profile/fei.wang7062/viz/0605_Airbnb_Seattle_2016/Dashboard2), [Power BI](https://github.com/wangtuguahhh/my_power_bi_practice/blob/main/Power_BI_practice.pdf)
+* **Machine Learning**
+
+    [Linear Regression](store-sales-time-series-forecasting-hybrid-model.ipynb), [Logistic Regression](step-4-ml-model-fitting-and-evaluation.ipynb), [Decision Trees](step-4-ml-model-fitting-and-evaluation.ipynb), [XGB](store-sales-time-series-forecasting-hybrid-model.ipynb), [Random Forest](beginner-titanic-challenge.ipynb), [SVM](step-4-ml-model-fitting-and-evaluation.ipynb), [KNN](step-4-ml-model-fitting-and-evaluation.ipynb), K-mean Clustering, [Convolutional Neural Netwokrs (CNNs)](https://github.com/wangtuguahhh/Capstone_2) [Netrual Language Processing with LLMs](https://github.com/wangtuguahhh/Sentiment-Analysis-for-Investment-Strategies-on-Tesla-Stock/blob/main/Final_Presentation_Slides.pdf)
