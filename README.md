@@ -2,7 +2,7 @@
 ## 🚀 Pivoting from Seismic Imaging to Data Science 🚀
 Hello! I’m Fei Wang, a Ph.D. in Chemical Engineering from Rice University, now navigating through the exciting world of Data Science. After dedicating 5 years to the oil and gas industry as a Seismic Image Analyst, where I delved deep into the nuances of imaging, data interpretation, and analytical problem solving, I have embarked on a journey to explore the expansive domain of Data Science.
 
-My transition to Data Science has been a deliberate and well-structured journey. I've immersed myself in a rigorous 500+ hour Data Science training program through Springboard, developing core competencies in Statistics, Machine Learning, Python, and SQL. My capstone project, focusing on image classification for diagnosing plant leaf diseases using deep Convolutional Neural Networks (CNNs), is a testament to my dedication and capability to apply data science techniques to real-world challenges.
+My transition to Data Science has been a deliberate and well-structured journey. I immersed myself in a rigorous 600+ hour Data Science training program through Springboard, developing core competencies in Statistics, Machine Learning, Python, and SQL. My capstone projects, focusing on image classification and natural language processing, were testaments to my dedication and capability to apply machine learning techniques to real-world challenges.
 
 ## 🌱 Projects
 * [News Analysis for Potential Investment Strategies on Tesla Stock](https://github.com/wangtuguahhh/Sentiment-Analysis-for-Investment-Strategies-on-Tesla-Stock)
